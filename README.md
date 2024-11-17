@@ -5,7 +5,7 @@
 
 ## About Us
 
-Charged IT Solutions LLC provides enterprise-grade IT infrastructure, security solutions, and cloud architecture services. We're passionate about open source and committed to building secure, scalable technology solutions that power businesses.
+Charged IT Solutions provides enterprise-grade IT infrastructure, security solutions, and cloud architecture services. We're passionate about open source and committed to building secure, scalable technology solutions that power both businesses & individuals.
 
 ### 🔋 Why "Charged"?
 
@@ -29,15 +29,13 @@ Our commitment to the open-source community includes:
 
 ## 🤝 Working With Us
 
-- **Enterprise Solutions**: [Contact Our Sales Team](mailto:sales@chargeditsolutions.com.com)
-- **Support**: [Technical Support Portal](https://support.chargeditsolutions.com.com)
-- **Careers**: [Join Our Team](https://careers.charged-it.com)
+- **Enterprise Solutions**: [Contact Our Sales Team](mailto:sales@chargeditsolutions.com)
+- **Support**: [Technical Support Portal](https://support.chargeditsolutions.com)
 
 ## 🔐 Security
 
 - [Security Policy](/.github/SECURITY.md)
-- [Vulnerability Reporting](/.well-known/security.txt)
-- [Bug Bounty Program](https://bugcrowd.charged-it.com)
+- [Vulnerability Reporting](https://chargeditsolutions.com/.well-known/security.txt)
 
 ## 📜 Licensing
 
@@ -60,10 +58,6 @@ We welcome contributions to our public repositories! Please review our:
 - [Contribution Guidelines](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Development Standards](DEVELOPMENT.md)
-
-## 📊 Organization Stats
-
-![GitHub Organization Stats](https://github-readme-stats.vercel.app/api?username=chargeditsolutionsllc&show_icons=true&count_private=true&theme=dark)
 
 ---
 
