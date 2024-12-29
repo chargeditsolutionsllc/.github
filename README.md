@@ -1,7 +1,7 @@
 # .github
 # Charged IT Solutions LLC
 
-![Charged IT Solutions Banner](/api/placeholder/1200/300)
+![Charged IT Solutions Banner](https://assets.chargeditsolutions.com/banners/orange/3x/charged-banner-orange-3x-nobg.png)
 
 ## About Us
 
@@ -9,7 +9,7 @@ Charged IT Solutions provides enterprise-grade IT infrastructure, security solut
 
 ### 🔋 Why "Charged"?
 
-We believe in keeping businesses powered up and running at peak performance. Just like a well-maintained battery, we ensure your IT infrastructure stays charged and ready for any challenge.
+We believe in keeping businesses powered up and running at peak performance. Just like a well-maintained battery, we ensure your IT infrastructure stays charged and ready for anything you throw at it.
 
 ## 🛡️ Our Expertise
 
@@ -29,8 +29,8 @@ Our commitment to the open-source community includes:
 
 ## 🤝 Working With Us
 
-- **Enterprise Solutions**: [Contact Our Sales Team](mailto:sales@chargeditsolutions.com)
-- **Support**: [Technical Support Portal](https://support.chargeditsolutions.com)
+- **Enterprise Solutions**: [Contact Our Sales Team](mailto:hello@chargeditsolutions.com)
+- **Support**: [Technical Support Portal](https://client.chargeditsolutions.com)
 
 ## 🔐 Security
 
