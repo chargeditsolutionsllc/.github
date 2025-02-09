@@ -1,4 +1,3 @@
-# .github
 # Charged IT Solutions LLC
 
 ![Charged IT Solutions Banner](https://assets.chargeditsolutions.com/banners/orange/3x/charged-banner-orange-3x-nobg.png)
@@ -14,10 +13,9 @@ We believe in keeping businesses powered up and running at peak performance. Jus
 ## 🛡️ Our Expertise
 
 - **Cloud Infrastructure & DevOps**
-- **Cybersecurity & Compliance**
-- **Enterprise IT Solutions**
-- **Network Architecture**
 - **Managed IT Services**
+- **Cybersecurity & Compliance**
+- **Global DDoS Protection**
 
 ## 📦 Public Projects
 
@@ -61,6 +59,6 @@ We welcome contributions to our public repositories! Please review our:
 
 ---
 
-<sub>© 2024 Charged IT Solutions LLC. All rights reserved.</sub>
+<sub>© 2025 Charged IT Solutions LLC. All rights reserved.</sub>
 
 <sub>🔒 Security Issue? [Report it here](https://chargeditsolutions.com/.well-known/security.txt)</sub>
